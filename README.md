@@ -66,7 +66,7 @@ For a complete, working example, refer to the [signon example](https://github.co
 
 - [Martin Hilscher](http://github.com/xinitrc)
 
-Based on passport-google
+Based on [passport-google](https://github.com/jaredhanson/passport-google)
 
 - [Jared Hanson](http://github.com/jaredhanson)
 
