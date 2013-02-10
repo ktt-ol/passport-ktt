@@ -2,7 +2,7 @@
   "name": "passport-ktt",
   "version": "0.2.0",
   "description": "KtT (OpenID) authentication strategy for Passport.",
-  "author": { "name": "Martin Hilscher", "email": "mh@kreativitaet-trifft-technik.de", "url": "http://www.kreativitaet-trifft-technik.de/" },
+  "author": { "name": "Martin Hilscher", "email": "mail-npm@xinitrc.de", "url": "http://xinitrc.de/" },
   "repository": {
     "type": "git",
     "url": "git://github.com/ktt-ol/passport-ktt.git"
@@ -12,6 +12,7 @@
   },
   "main": "./lib/passport-ktt",
   "dependencies": {
+    "util": "0.4.x",
     "pkginfo": "0.2.x",
     "passport-openid": "0.2.x"
   },
