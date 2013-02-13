@@ -17,7 +17,7 @@ vows.describe('KtTStrategy').addBatch({
       assert.equal(strategy.name, 'ktt');
     },
     'should have correct provider URL': function (strategy) {
-      assert.equal(strategy._providerURL, 'http://id.kreativitaet-trifft-technik.de/openidserver/op');
+      assert.equal(strategy._providerURL, 'https://id.kreativitaet-trifft-technik.de/openidserver/op');
     },
   },
   
